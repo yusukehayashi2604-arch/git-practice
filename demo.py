@@ -4,3 +4,5 @@ def keisan(a:int):
 
 result=keisan(2)
 print(result)
+
+#これはテストです。
